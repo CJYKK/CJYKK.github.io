@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+.STYLE1 {font-family: "宋体"}
+.STYLE2 {color: #000000}
+.STYLE3 {color: #CC0000}
+-->
+</style>
+</head><body>
+<h2 class="STYLE2">写出网页中显示红色部分的主要表单代码？</h2>
+<form id="form1" name="form1" method="post" action="">
+<h2 class="STYLE3">请选择您喜欢的音乐（只能选一种）</h2>
+<h2 class="STYLE3">
+<span class="STYLE1">
+<label>
+<input type="radio" name="RadioGroup1" value="1" />
+摇滚</label>
+</span></h2>
+<h2 class="STYLE3"><span class="STYLE1">
+<label>
+<input type="radio" name="RadioGroup1" value="2" />
+爵士
+</label>
+<label>
+<input name="RadioGroup1" type="radio" value="3" checked="checked" />
+流行</label>
+</span>
+</h2>
+</form>
+<h2> </h2>
+<label></label>
+</body>
+</html>
