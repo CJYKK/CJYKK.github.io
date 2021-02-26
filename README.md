@@ -1,5 +1,5 @@
 # [CJYKK.github.io](https://CJYKK.github.io) #
-## CJYKK的<del>*Gay*</del>GitHub网页！##
+## CJYKK的<del>*Gay*</del>GitHub网页！ ##
 
 ### 这里是网页的源码，这个网页主要做测试用，内容会定期更新！ ###
 ### 这个网页不受任何版权保护<u>[滑稽保命]</u>，您可以随意Fork并更改里边的内容，甚至可以商用，最好可以添加上原作者的名字……（不过也不可能有人会Fork的2333）  ###
